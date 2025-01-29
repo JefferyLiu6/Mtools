@@ -1,0 +1,7 @@
+{
+    "model_type": "smallnet",
+    "input_size": 3,
+    "num_classes": 8,
+    "class_labels": ["Gasoline_Can", "Hammer", "Pebbles", "Pliers", "Rope", "Screw_Driver", "Toolbox", "Wrench"]
+  }
+  
